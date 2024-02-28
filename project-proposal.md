@@ -1,2 +1,2 @@
-<p>**Proposal:** The background for my Zoom application, through the use of a green screen, would be of a field of flowers that starts off small, but the flowers themselves grow taller and taller over the course of the video,
+<p><strong>Proposal:</strong> The background for my Zoom application, through the use of a green screen, would be of a field of flowers that starts off small, but the flowers themselves grow taller and taller over the course of the video,
  while the speaker becomes more obscured. There would also be different people walking around in the background, but they’re all shadowed silhouettes and indistinguishable.</p>
